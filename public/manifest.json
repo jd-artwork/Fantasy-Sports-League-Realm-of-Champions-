@@ -1,0 +1,23 @@
+{
+  "name": "Realm of Champions - Sports & Fantasy Campaign",
+  "short_name": "Realm of Champions",
+  "description": "Multi-league sports tracker and DnD-style fantasy sports campaigns with co-op team management, live drafting sessions, real-time game scoring, and battle arena.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/vite.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

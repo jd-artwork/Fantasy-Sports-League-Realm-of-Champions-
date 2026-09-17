@@ -1,0 +1,7 @@
+{
+  "name": "Realm of Champions - Sports & Fantasy Campaign",
+  "description": "Multi-league sports tracker and DnD-style fantasy sports campaigns with co-op team management, live drafting sessions, and real-time game scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
